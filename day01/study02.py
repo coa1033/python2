@@ -35,3 +35,13 @@ for i in range(1,13):
         endday =30
     dic2[month] = endday
 print(dic2)
+
+
+dic3 = {}
+dic3_list = [31,28,31,30,31,30,31,31,30,31,30,31]
+
+for i , j in enumerate(dic3_list) :
+    month = str(i + 1) + "월"
+    dic3[month] = j
+print(dic3)
+
