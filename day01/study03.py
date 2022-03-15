@@ -19,4 +19,4 @@ dic1_list = [31,28,31,30,31,30,31,31,30,31,30,31]
 for i , j in enumerate(dic1_list):
     month = str(i+1) + "월"
     dic1[month] = j
-print(dic1.keys())
+    print(month)
