@@ -30,7 +30,7 @@ time.sleep(3)
 St ='서울 석촌호수'
 browser.find_element_by_xpath('//*[@id="query"]').send_keys(St,Keys.ENTER)
 time.sleep(2)
-
+browser.find_element_by_xpath('//*[@id="main_pack"]/section[1]/div/div[2]/panel-list/div[1]/ul/li[1]/div[1]/div/a').click()
 # window_handles[0]
 # window_handles[-1]
 # 예시 
