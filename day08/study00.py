@@ -17,7 +17,7 @@ url = 'https://codepen.io/'
 
 browser = webdriver.Chrome(chorme_path)
 id = 'lgp920024@gmail.com'
-pw = 'remember1314!'
+pw = '!!!!!!!!!!!!'
 
 browser.get(url)
 time.sleep(3)
