@@ -31,14 +31,3 @@ browser.find_element_by_xpath('//*[@id="log-in-button"]').click()
 
 
 
-#Keys.ENTER => Enter
-#Keys.RETURN => 엔터
-#Keys.ARROW_UP => 방향키 위쪽
-#Keys.ARROW_DOWN => 방향키 아래쪽
-#Keys.ARROW_LEFT => 방향키 왼쪽
-#Keys.ARROW_RIGHT => 방향키 오른쪽
-#Keys.BACK_SPACE => 지우기
-#Keys.DELETE => 지우기(딜리트)
-#Keys.CONTROL => Ctrl
-#Keys.ALT => Alt
-#Keys.SHIFT => Shift
